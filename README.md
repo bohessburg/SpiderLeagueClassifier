@@ -1,7 +1,10 @@
 # SpiderLeague
 
 A fine-grained image classifier that identifies 15 species of spiders using a ConvNeXt-Tiny backbone with a custom multi-layer classification head. 
-This project is primarily for learning purposes.
+
+This project is primarily for my personal learning purposes. There are detailed comments as well for other users to follow along and learn pytorch with this simple model implementation.
+
+The code for rendering validation results and example image predictions using matplotlib was generated primarily with Claude Code.
 
 ## Species
 
