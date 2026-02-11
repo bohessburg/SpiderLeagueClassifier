@@ -72,3 +72,7 @@ The project also works in Colab. See the notebook for the Colab-specific setup (
 ## Dataset
 
 [Yikes! Spiders! 15 Species](https://www.kaggle.com/datasets/gpiosenka/yikes-spiders-15-species) from Kaggle. ~2,185 training images, 75 validation images, and 75 test images across 15 spider species.
+
+## To Do
+- expand dataset to include more species
+- create a UI to upload pictures for classification
