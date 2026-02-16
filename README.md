@@ -2,9 +2,9 @@
 
 A fine-grained image classifier that identifies 15 species of spiders using a ConvNeXt-Tiny backbone with a custom multi-layer classification head. 
 
-This project is primarily for my personal learning purposes. There are detailed comments as well for other users to follow along and learn pytorch with this simple model implementation.
+This project is primarily for my personal learning purposes, and for a fun use case for a competition my friends and I had to take pictures of the most dangerous spiders. There are detailed comments as well for other users to follow along and learn pytorch with this simple model implementation.
 
-The code for rendering validation results and example image predictions using matplotlib was generated primarily with Claude Code.
+ I like to be transparent about AI use in my personal projects. The code for rendering validation results and example image predictions using matplotlib was generated primarily with Claude Code. The rest was myself.
 
 ## Species
 
